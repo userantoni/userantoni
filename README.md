@@ -1,4 +1,4 @@
-Hi there, I'm Anthony Obillo! 👋  
+Hi there, I'm Anthony! 👋  
 
 I'm a Software Engineer and Full-stack Developer passionate about building scalable and efficient applications. I specialize in Angular, React, Spring Boot, and Java.  
 
