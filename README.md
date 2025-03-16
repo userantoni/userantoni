@@ -1,6 +1,6 @@
 Hi there, I'm Anthony! 👋  
 
-I'm a Software Engineer and Full-stack Developer passionate about building scalable and efficient applications. I specialize in Angular, React, Spring Boot, and Java.  
+I'm a Software Engineer and Full-stack Developer passionate about building scalable and efficient applications. I specialize in **Angular, Spring Boot, and Java**, focusing on **application modernization**—helping businesses upgrade legacy systems to modern, scalable, and efficient architectures.  
 
 ---  
 
